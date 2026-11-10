@@ -1,0 +1,42 @@
+[
+  {
+    "supplier": "Proveedor Ficticio Alfa",
+    "supplier_tax_id": "DEMO-ALFA",
+    "invoice_number": "F-2026-001",
+    "invoice_date": "2026-01-15",
+    "currency": "EUR",
+    "net_amount": "100.00",
+    "tax_amount": "21.00",
+    "total_amount": "121.00"
+  },
+  {
+    "supplier": "Proveedor Ficticio Beta",
+    "supplier_tax_id": "DEMO-BETA",
+    "invoice_number": "B-2026-014",
+    "invoice_date": "2026-01-20",
+    "currency": "EUR",
+    "net_amount": "250.00",
+    "tax_amount": "52.50",
+    "total_amount": "300.00"
+  },
+  {
+    "supplier": "Proveedor Ficticio Alfa",
+    "supplier_tax_id": "DEMO-ALFA",
+    "invoice_number": "F-2026-001",
+    "invoice_date": "2026-01-15",
+    "currency": "EUR",
+    "net_amount": "100.00",
+    "tax_amount": "21.00",
+    "total_amount": "121.00"
+  },
+  {
+    "supplier": "Proveedor Ficticio Gamma",
+    "supplier_tax_id": "",
+    "invoice_number": "G-2026-003",
+    "invoice_date": "2026-02-03",
+    "currency": "EUR",
+    "net_amount": "80.00",
+    "tax_amount": "16.80",
+    "total_amount": "96.80"
+  }
+]
